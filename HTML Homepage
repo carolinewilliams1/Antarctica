@@ -15,21 +15,21 @@
         <ul>
             <li><a href="history.html">History</a></li>
             <li><a href="experience.html">My Experience</a></li>
-            <li><a href="organizations.html">Organizations in Antarctica</a></li>
-            <li><a href="scientific_stations.html">Scientific Stations</a></li>
+            <li><a href="organizations.html">Organizations</a></li>
+            <li><a href="research_stations.html">Research Stations</a></li>
         </ul>
     </nav>
 
     <main>
         <section id="introduction">
             <h2>Welcome to Antarctica 2024</h2>
-            <p>Experience the wonders of Antarctica through my eyes. Join me on an unforgettable journey to the icy continent.</p>
+            <p>Experience the wonders of Antarctica through my eyes.</p>
             <!-- Include captivating images here -->
         </section>
     </main>
 
     <footer>
-        <p>&copy; Your Name | 2024</p>
+        <p>&copy; Caroline Williams | 2024</p>
     </footer>
 </body>
 </html>
