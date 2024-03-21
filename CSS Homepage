@@ -1,0 +1,80 @@
+/* Reset default margin and padding */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set body font and background color */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Light gray background */
+}
+
+/* Header styles */
+header {
+    background-color: #007bff; /* Blue header background */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation menu styles */
+nav {
+    background-color: #ffffff; /* White navigation background */
+    border-bottom: 1px solid #ddd; /* Light gray border */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav a {
+    color: #333; /* Dark gray link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #007bff; /* Blue link color on hover */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+section#introduction {
+    text-align: center;
+}
+
+section#introduction h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+section#introduction p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* Footer styles */
+footer {
+    background-color: #007bff; /* Blue footer background */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
